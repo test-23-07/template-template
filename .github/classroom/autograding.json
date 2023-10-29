@@ -1,0 +1,19 @@
+{ "introduction": "%%%Template: Schreibe einen Titel%%%",
+   "logo_url": "https://techstarter.de/wp-content/uploads/2022/04/AWS_Restart_Logo_RGB.png",
+   "timeframe": "45 Minuten",
+
+    "tests": [
+        {
+         "specs": {"title":"Test-Titel", "list":["a","b","c"], "code_example":"test-code"},
+         "name": "Test-Name",
+         "feedback": "This is a test feedback",
+         "urls": ["https://www.google.com"],
+         "file": "form.html",
+         "javascript": "",
+         "output": "true",
+         "comparison": "exact",
+         "points": 100
+       }
+
+    ]
+  }
